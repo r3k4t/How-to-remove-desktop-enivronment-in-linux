@@ -2,7 +2,7 @@ How to remove desktop enivronment in linux?
 
 <h6>Solution:</h6>
 
-### Example : lxde desktop environment###
+### Example : lxde desktop environment ###
 
 <h4>Terminal Command :</h4>
 
