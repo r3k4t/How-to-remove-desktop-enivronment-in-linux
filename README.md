@@ -1,4 +1,4 @@
-How to remove desktop enivronment in linux?
+# How to remove desktop enivronment in linux?
 
 <h6>Solution:</h6>
 
