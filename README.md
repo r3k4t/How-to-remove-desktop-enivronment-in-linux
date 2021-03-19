@@ -7,7 +7,7 @@
 <h4>Terminal Command :</h4>
 
 + sudo apt autoremove lxde
-+ sudo ls -l /usr/share/xsessions/
++ sudo ls -l  /usr/share/xsessions/
 + sudo apt-get --purge remove LXDE
 + restart or log out
 
